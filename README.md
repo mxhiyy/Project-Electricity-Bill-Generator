@@ -16,11 +16,11 @@ This is a simple C++ program that calculates the electricity bill based on the u
 - Display a detailed breakdown of the total bill.
 
 ## Example Output
--
+/
 **************************************************
         :E l e c t r i c i t y    B i l l:
 **************************************************
--
+\
 Enter Customer Name: John Doe
 Enter Customer ID: 12345
 Enter the unit consumed by the customer: 250
