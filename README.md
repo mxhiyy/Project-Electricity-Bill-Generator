@@ -16,21 +16,8 @@ This is a simple C++ program that calculates the electricity bill based on the u
 - Display a detailed breakdown of the total bill.
 ` ``` `
 ## Example Output
-**************************************************
-        :E l e c t r i c i t y    B i l l:
-**************************************************
-Enter Customer Name: John Doe
-Enter Customer ID: 12345
-Enter the unit consumed by the customer: 250
+![image](https://github.com/user-attachments/assets/9aedc2ce-6838-4b3e-857a-cca67088daac)
 
-Customer ID: 12345
-Customer Name: John Doe
-Unit Consumed by Customer: 250
-Bill of Units without tax is: 650 Rs.
-Meter Charges: 50 Rs.
-Tax is: 65 Rs.
-Total Bill Pay by Customer: 765 Rs.
-` ``` `
 ## Requirements
 -C++ compiler (e.g., GCC)
 -Any operating system with a terminal or command prompt to run the program
