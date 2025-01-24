@@ -14,13 +14,11 @@ This is a simple C++ program that calculates the electricity bill based on the u
 - Add 10% tax to the bill.
 - Include a flat ₹50 meter charge.
 - Display a detailed breakdown of the total bill.
-
+` ``` `
 ## Example Output
-/
 **************************************************
         :E l e c t r i c i t y    B i l l:
 **************************************************
-\
 Enter Customer Name: John Doe
 Enter Customer ID: 12345
 Enter the unit consumed by the customer: 250
@@ -32,7 +30,7 @@ Bill of Units without tax is: 650 Rs.
 Meter Charges: 50 Rs.
 Tax is: 65 Rs.
 Total Bill Pay by Customer: 765 Rs.
-
+` ``` `
 ## Requirements
 -C++ compiler (e.g., GCC)
 -Any operating system with a terminal or command prompt to run the program
