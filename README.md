@@ -19,8 +19,8 @@ This is a simple C++ program that calculates the electricity bill based on the u
 ![image](https://github.com/user-attachments/assets/9aedc2ce-6838-4b3e-857a-cca67088daac)
 
 ## Requirements
--C++ compiler (e.g., GCC)
--Any operating system with a terminal or command prompt to run the program
+- C++ compiler (e.g., GCC)
+- Any operating system with a terminal or command prompt to run the program
 
 ## How It Works
 1. The program takes the customer's name, ID, and units consumed as input.
